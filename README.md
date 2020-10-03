@@ -2,7 +2,7 @@
 
 A custom and special Navigation bar
 
-[![perforated v](https://api.tarafdari.com/1/webp_1.png)](https://api.tarafdari.com/1/screencast-2020-10-03-10-55-54.mp4)
+[![perforated v](https://api.tarafdari.com/1/screenshot-1601710323.png)](https://api.tarafdari.com/1/screencast-2020-10-03-10-55-54.mp4)
 
 ## Getting Started
 
