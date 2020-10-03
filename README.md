@@ -2,8 +2,8 @@
 
 A custom and special Navigation bar
 
-![perforated1](https://api.tarafdari.com/1/screenshot-1601380624.png)
-![perforated2](https://api.tarafdari.com/1/screenshot-1601380619.png)
+![perforated1](https://api.tarafdari.com/1/webp_1.png)
+![perforated2](https://api.tarafdari.com/1/webp.png)
 
 ## Getting Started
 
