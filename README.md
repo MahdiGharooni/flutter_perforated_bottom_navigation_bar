@@ -2,8 +2,7 @@
 
 A custom and special Navigation bar
 
-![perforated1](https://api.tarafdari.com/1/webp_1.png)
-![perforated2](https://api.tarafdari.com/1/webp.png)
+![perforated v](https://api.tarafdari.com/1/screencast-2020-10-03-10-55-54.mp4)
 
 ## Getting Started
 
