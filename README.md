@@ -1,4 +1,4 @@
-# perforated_bottom_navigation_bar
+# flutter_perforated_bottom_navigation_bar
 
 A custom and special Navigation bar
 
